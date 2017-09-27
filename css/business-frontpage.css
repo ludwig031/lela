@@ -1,0 +1,45 @@
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #faffdd;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+   height: 400px;
+    background: url('../upload/img/header_img.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+@font-face {
+  font-family: 'bauhaus93';
+
+    src: url('../fonts/BAUHS93.ttf')  format('truetype');
+    src: url('../fonts/BAUHS93.ttf#iefix')  format('truetype');
+}
+
+.tagline {
+    font-size:  150px;
+    text-shadow: 0 0 5px #000;
+    /*text-shadow: 3px 3px black, 3px 3px black, 3px 3px black, 3px 3px black;*/
+    border: black 50px;
+    color: #33cc33;
+    font-family: 'bauhaus93';
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.img-padding {
+    padding: 0px 10px 0px 10px;
+}
+
+footer {
+    margin: 50px 0;
+}

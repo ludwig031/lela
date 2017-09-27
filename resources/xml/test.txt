@@ -1,0 +1,28 @@
+﻿<h2>
+    O nama
+</h2>
+<blockquote>
+    Kada birate kozmetički salon, koje su kvalitete Vama najvažnije? Mi u Wellness centru Lela smatramo da su to: stručnost, kvaliteta usluge i preparata.
+</blockquote>
+<p>
+    Od studenog 1997. kada je salon otvoren do danas, zahvaljujući redovnom stručnom usavršavanju osoblja
+    i praktičnoj primjeni novih kozmetičkih metoda uljepšavanja te liječenja lica i tijela, stvorili smo
+    veliki krug zadovoljnih stalnih i povremenih klijenata. Kontinuirano praćenje noviteta na domaćim i
+    stranim kozmetičkim sajmovima te uvođenje najsuvremenijih kozmetičkih usluga i aparata u našu ponudu,
+    jamstvo su pružanja vrhunskih kozmetičkih tretmana za lice i tijelo.
+</p>
+<p>
+	Primjenjujući samo vrhunske preparate renomiranih kozmetičkih kuća, uspješno rješavamo probleme
+	najosjetljivije mladenačke kože ali i kože zrelije dobi. Susretljivost i srdačnost osoblja  Wellness
+	centra Lela te individualan pristup svakom klijentu jamstvo su Vašeg zadovoljstva našim uslugama.
+	Želja i cilj nam je pružiti Vam kozmetičke usluge i preparate koji najbolje odgovaraju upravo Vama.
+</p>
+<p>
+	Zahvaljujem svim našim klijentima na do sad ukazanom povjerenju. Vaše zadovoljstvo naš je najveći poticaj
+	za nastavak uspješnog rada i najbolja preporuka za buduće korisnike usluga Wellness centra Lela
+</p>
+<hr>
+<p>
+    Jelicafsdfsdf Matijanić<br>
+    stručni učitelj, majstor kozmetičar
+</p>
